@@ -5,4 +5,4 @@
 
 ### The Neural Network used in this project has the following structure :
 
-   "![](Figures/neural_network.png)\n"
+   ![](Figures/neural_network.png)
