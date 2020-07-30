@@ -7,7 +7,7 @@
 
    ![](Figures/neural_network.png)
    
-   3 Layers -
+   #### 3 Layers -
    
    - Input Layer (400 input units)
    - Hidden Layer (25 hidden units)
